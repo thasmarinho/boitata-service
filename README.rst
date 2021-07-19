@@ -1,9 +1,6 @@
 Boitata-service
 ========
-|master| |MIT license|
-
-.. |master| image:: https://travis-ci.org/thasmarinho/root-image-editor.svg?branch=master
-    :target: https://travis-ci.org/thasmarinho/root-image-editor
+|MIT license|
 
 .. |MIT license| image:: https://img.shields.io/badge/License-MIT-blue.svg
     :target: https://lbesson.mit-license.org/
@@ -30,43 +27,13 @@ $ pytest test
 Features
 --------
 
-Implemented filters:
-
-- Negative
-- Logarithmic
-- Gamma Correction
-- Histogram Equalization
-- Median
-- Piecewise Linear
-- Arithmetic Mean
-- Geometric Mean
-- Harmonic Mean
-- Contra-harmonic Mean
-- Convolution
-- Laplacian
-- Sobel
-
-Color filters:
-
-- Sepia
-- Chroma-Key
-
-Color conversion:
-
-- RGB to gray via weighted average
-- RGB to gray via simple average
-- RGB <-> HSV
-- RGB <-> HSI
-
-Other:
-
-- Draw histogram of any image
+TODO
 
 Contribute
 ----------
 
-- Issue Tracker: https://github.com/thasmarinho/root-image-editor/issues
-- Source Code: https://github.com/thasmarinho/root-image-editor
+- Issue Tracker: https://github.com/thasmarinho/boitata-service/issues
+- Source Code: https://github.com/thasmarinho/boitata-service
 
 License
 -------
